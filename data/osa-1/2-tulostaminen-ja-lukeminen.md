@@ -77,11 +77,7 @@ Ohjelmoinnin aloittamiseen tarvitset seuraavat asiat.
 2.  Javan (Java JDK).
 3.  NetBeans with TMC-ohjelmointiympäristön.
 
-Ohjeistus oleellisten työvälineiden asentamiseen sekä kurssilla tarvittavan käyttäjätunnuksen luomiseen löytyy osoitteesta [https://materiaalit.github.io/tmc-asennus/netbeans/](https://materiaalit.github.io/tmc-asennus/netbeans/). Kun seuraat ohjeita, valitse organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin Perusteet Syksy 2019".
-
-
-[Ohjeisiin!](https://materiaalit.github.io/tmc-asennus/netbeans/)
-Syksyn 2019 luentokurssilla valitaan organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin perusteet, syksy 2019".
+Tässä on ohjeistus oleellisten työvälineiden asentamiseen. **Kun seuraat ohjeita, valitse organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin Perusteet Syksy 2019".** Löydät ohjeet täältä: [https://materiaalit.github.io/tmc-asennus/netbeans/](https://materiaalit.github.io/tmc-asennus/netbeans/).
 
 </text-box>
 
