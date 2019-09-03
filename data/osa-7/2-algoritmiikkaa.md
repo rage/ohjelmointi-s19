@@ -1,7 +1,7 @@
 ---
 path: '/osa-7/2-algoritmiikkaa'
 title: 'Algoritmiikkaa'
-hidden: false
+hidden: true
 ---
 
 
@@ -338,4 +338,3 @@ Koska haettavien alkioiden määrä puolittuu binäärihaussa jokaisen tarkastel
 <br/>
 
 </text-box>
-

@@ -1,6 +1,7 @@
 ---
 path: '/osa-2/2-loogiset-operaatiot'
 title: 'Loogiset operaatiot'
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -888,4 +889,3 @@ System.out.println("Hyväksyttävien lukujen summa: " + summa);
 System.out.println("Hyväksyttyjä lukuja: " + hyvaksytytLuvut);
 System.out.println("Epäkelvot luvut: " + epakelvotLuvut);
 ```
-

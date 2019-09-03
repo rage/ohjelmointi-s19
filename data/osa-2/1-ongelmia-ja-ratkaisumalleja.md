@@ -1,6 +1,7 @@
 ---
 path: '/osa-2/1-ongelmia-ja-ratkaisuja'
 title: 'Ongelman osia ja niiden ratkaisumalleja'
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

@@ -1,7 +1,7 @@
 ---
 path: '/osa-5/3-metodien-ja-konstruktorien-kuormittaminen'
 title: 'Metodien ja konstruktorien kuormittaminen'
-hidden: false
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

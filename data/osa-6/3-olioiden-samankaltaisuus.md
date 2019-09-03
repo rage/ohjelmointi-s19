@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/3-olioiden-samankaltaisuus'
 title: 'Olioiden samankaltaisuus'
-hidden: false
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -463,4 +463,3 @@ Vinkki! Voit luoda metodiin `tulostaOmistajat` listan, jota käytät jo tulostet
 
 
 </programming-exercise>
-

@@ -1,7 +1,7 @@
 ---
 path: '/osa-3/5-testauksen-alku'
 title: 'Pieniä askeleita ohjelmien testaamiseen'
-hidden: false
+hidden: true
 ---
 
 
@@ -151,4 +151,3 @@ Lähdekoodin kohdalla on valmis malliratkaisu. Keksi sitä vastaava tehtävänan
 
 
 <crowdsorcerer id='22'></crowdsorcerer>
-

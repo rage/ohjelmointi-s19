@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/1-luokka-ja-oliometodit'
 title: 'Luokka- ja oliometodit: määre static'
-hidden: false
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -486,4 +486,3 @@ The Stinky Cheese Man and Other Fairly Stupid Tales, Penguin Group, 1992
 </sample-output>
 
 </programming-exercise>
-

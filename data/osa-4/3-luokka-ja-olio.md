@@ -1,7 +1,7 @@
 ---
 path: '/osa-4/3-luokka-ja-olio'
 title: 'Luokka ja olio'
-hidden: false
+hidden: true
 ---
 
 
@@ -1794,4 +1794,3 @@ Parittomien summa: 5
 </sample-output>
 
 </programming-exercise>
-

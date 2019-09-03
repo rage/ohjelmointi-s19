@@ -1,7 +1,7 @@
 ---
 path: '/osa-7/4-ohjelmointitehtavien-luominen'
 title: 'Ohjelmointitehtävien luominen'
-hidden: false
+hidden: true
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/2-hajautustaulu'
 title: 'Hajautustaulu'
-hidden: false
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -854,4 +854,3 @@ System.out.println(matinVelkakirja.paljonkoVelkaa("Arto"));
 </sample-output>
 
 </programming-exercise>
-

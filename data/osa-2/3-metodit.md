@@ -1,6 +1,7 @@
 ---
 path: '/osa-2/3-metodit'
 title: 'Ohjelman pilkkominen osiin: metodit'
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

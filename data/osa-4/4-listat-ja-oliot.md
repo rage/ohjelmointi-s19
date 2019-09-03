@@ -1,7 +1,7 @@
 ---
 path: '/osa-4/4-listat-ja-oliot'
 title: 'Listat ja oliot'
-hidden: false
+hidden: true
 ---
 
 

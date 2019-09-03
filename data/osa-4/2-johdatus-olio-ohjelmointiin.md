@@ -1,7 +1,7 @@
 ---
 path: '/osa-4/2-johdatus-olio-ohjelmointiin'
 title: 'Johdatus olio-ohjelmointiin'
-hidden: false
+hidden: true
 ---
 
 
@@ -21,4 +21,3 @@ Aloitamme nyt ensiaskeleet olio-ohjelmointiin hyvin perinteisen teknologian eli 
 </pdf-slideshow>
 
 <quiz id="2b9e2bdd-1bc3-4058-93e0-df0c85713f4b"></quiz>
-

@@ -1,7 +1,7 @@
 ---
 path: '/osa-5/1-katsaus-olio-ohjelmointiin'
 title: 'Katsaus olio-ohjelmointiin'
-hidden: false
+hidden: true
 ---
 
 

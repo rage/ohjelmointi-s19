@@ -1,10 +1,10 @@
 const courseSettings = {
   language: "fi",
-  name: "Ohjelmoinnin MOOC 2019",
-  subtitle: "Ohjelmoinnin alkeet kaikille, ilmaiseksi",
-  slug: "ohjelmoinnin-mooc-2019",
-  tmcCourse: "2019-ohjelmointi",
-  tmcOrganization: "mooc",
+  name: "Ohjelmointi Syksy 2019",
+  subtitle: "Opi ohjelmoinnin alkeet",
+  slug: "ohjelmointi-s19",
+  tmcCourse: "ohjelmoinnin-perusteet-s19",
+  tmcOrganization: "hy",
   bannerPath: "banner.svg",
   sidebarEntries: [
     {
@@ -15,27 +15,31 @@ const courseSettings = {
       title: "Osaamistavoitteet",
       path: "/osaamistavoitteet",
     },
-    {
-      title: "Arvostelu ja kokeet",
-      path: "/arvostelu-ja-kokeet",
-    },
-    {
-      title: "Mahdollisuus opinto-oikeuteen",
-      path: "/opinto-oikeus",
-    },
     { title: "Tukiväylät", path: "/tukivaylat" },
-    {
-      title: "Opettajille ja opinto-ohjaajille",
-      path: "/opettajille",
-    },
     {
       title: "Usein kysytyt kysymykset",
       path: "/usein-kysytyt-kysymykset",
     },
     { separator: true, title: "Ohjelmoinnin perusteet" },
   ],
-  sidebarFuturePages: [], // { title: "Osa 14", tba: "19.4.2019" },
-  splitCourses: true,
+  sidebarFuturePages: [
+    { title: "Osa 2", tba: "3.9.2019" },
+    { title: "Osa 3", tba: "10.9.2019" },
+    { title: "Osa 4", tba: "17.9.2019" },
+    { title: "Osa 5", tba: "24.9.2019" },
+    { title: "Osa 6", tba: "1.10.2019" },
+    { title: "Osa 7", tba: "8.10.2019" },
+    { separator: true, title: "Ohjelmoinnin jatkokurssi" },
+    { title: "Osa 8", tba: "TBA" },
+    { title: "Osa 9", tba: "TBA" },
+    { title: "Osa 10", tba: "TBA" },
+    { title: "Osa 11", tba: "TBA" },
+    { title: "Osa 12", tba: "TBA" },
+    { title: "Osa 13", tba: "TBA" },
+    { title: "Osa 14", tba: "TBA" },
+
+  ],
+  splitCourses: false,
 }
 
 module.exports = {

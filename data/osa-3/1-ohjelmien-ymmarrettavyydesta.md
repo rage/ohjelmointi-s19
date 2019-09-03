@@ -1,7 +1,7 @@
 ---
 path: '/osa-3/1-ohjelmien-ymmarrettavyydesta'
 title: 'Ohjelmien ymmärrettävyydestä'
-hidden: false
+hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -314,4 +314,3 @@ Voidaan todeta, että hyvin harva ohjelma kirjoitetaan vain kerran. Tätä ajatu
 
 
 <quiz id="45b6aea4-2c5f-404e-9143-23a644ebea63"></quiz>
-
