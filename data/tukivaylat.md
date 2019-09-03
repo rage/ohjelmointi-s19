@@ -24,7 +24,13 @@ Kurssilla on mahdollisuus saada hyvää ohjelmointiseuraa sekä saada apua teht�
 Katso Exactum-rakennuksen tarkempi sijainti seuraavasta linkistä: https://www.google.com/maps?hl=en&q=Exactum,+Kumpula+Campus,+Pietari+Kalmin+katu+5,+00560+Helsinki
 
 Syksyn 2019 pajaohjausajat (luokka BK107):
-PÄIVITTYY MYÖHEMMIN
+* Maanantaisin 12-18
+* Tiistaisin 12-18
+* Keskiviikkoisin 12-16
+* Torstaisin 14-16
+* Perjantaisin 12-14
+
+Huomaathan, että ajat saattavat muuttua syksyn aikana. Ylläolevaa listaa päivitetään, jos ajat sattuvat muuttumaan. Kannattaa tarkistaa tätä listaa säännöllisesti.
 
 
 Exactum-rakennuksen aulassa olevasta infonäytöstä löytää salin tarkemman sijainnin. Voit myös kysyä salin sijaintia aulan vahtimestareilta sekä kampuksen henkilökunnalta ja opiskelijoilta.
