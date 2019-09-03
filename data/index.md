@@ -21,6 +21,7 @@ opintopistettä (5+5).
 
 Luo tunnus tai kirjaudu sisään, jonka
 jälkeen valitse [Osa 1](/osa-1) navigaatiosta.
+Kaikki ohjeet ohjelmointiympäristön asentamiseen löytyvät osasta 1.2, kohdasta "ohjelmoinnin aloittaminen"
 
 ## Sisältö ja kurssin versiot
 
@@ -105,7 +106,7 @@ Syksyn 2019 aikataulutetulla luentokurssilla
 
 
 <b>
-  Määräajat ovat aina torstaisin. Määräaikojen kellonajat ovat aina
+  Määräajat ovat aina torstain ja perjantain välisenä yönä. Määräaikojen kellonajat ovat aina
   23:59:00 – osan 1 tehtävät tulee palauttaa siis viimeistään
   12.9.2019 klo 23:59:00. Virallisena määräaikana
   käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa,
