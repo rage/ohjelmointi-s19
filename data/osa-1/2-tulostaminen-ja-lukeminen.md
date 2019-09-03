@@ -106,6 +106,7 @@ Ohjelmoinnin aloittamiseen tarvitset seuraavat asiat.
 </only-for-not-logged-in>
 
 [Ohjeisiin!](https://materiaalit.github.io/tmc-asennus/netbeans/)
+Syksyn 2019 luentokurssilla valitaan organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin perusteet, syksy 2019".
 
 </text-box>
 

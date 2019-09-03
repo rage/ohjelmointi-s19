@@ -13,6 +13,9 @@ Tässä usein kysyttyjä kysymyksiä ja ongelmia. Jos et löydä kysymykseesi va
 
 Varmista että sinulla on uusin versio TMC liitännäisestä valitsemalla Netbeanssin ylävalikosta `Help` -> `Check for Updates`.
 
+### En tiedä, mikä organisaatio ja kurssiversio minun pitäisi valita
+syksyn 2019 luentokurssilla valitaan organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin perusteet, syksy 2019"
+
 ### Netbeans jäätyy tehtävän palauteikkunan avautuessa
 
 Ongelma pitäisi olla korjattu TMC liitännäisen uusimmassa versiossa. Saat sen ladattua valitsemalla Netbeanssin yläpalkista <code>Help</code> -> <code>Check for updates</code> ja seuraamalla näytölle tulevia ohjeita.
