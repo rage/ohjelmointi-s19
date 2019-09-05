@@ -1,7 +1,7 @@
 ---
 path: '/osa-2/2-loogiset-operaatiot'
 title: 'Loogiset operaatiot'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
