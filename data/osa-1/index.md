@@ -4,7 +4,7 @@ title: 'Osa 1'
 overview: true
 ---
 <only-for-course-variant variant="dl">
-  <deadline>21.1.2019</deadline>
+  <deadline>12.9.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
