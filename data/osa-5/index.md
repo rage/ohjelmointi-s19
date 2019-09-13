@@ -6,7 +6,7 @@ hidden: true
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>18.2.2019</deadline>
+  <deadline>10.10.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
