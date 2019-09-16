@@ -35,10 +35,6 @@ Huomaathan, että ajat saattavat muuttua syksyn aikana. Ylläolevaa listaa päiv
 
 Exactum-rakennuksen aulassa olevasta infonäytöstä löytää salin tarkemman sijainnin. Voit myös kysyä salin sijaintia aulan vahtimestareilta sekä kampuksen henkilökunnalta ja opiskelijoilta.
 
-## Moodle-foorumi
-
-Tietoa tulee myöhemmin
-
 <!-- Kurssin osallistujilla on käytössä keskustelufoorumi, joka on Moodle-järjestelmässä. Pääset Moodleen tekemällä "koe ja moodle" -ilmoittautumisen. Ilmoittautuminen on pakollinen kaikille niille, jotka haluavat päästä kurssin Moodleen. Ilmoittautuminen koskee kaikkia kurssilaisia, eli myös Helsingin yliopiston opiskelijoita ja myös niitä, jotka ovat ilmoittautuneet kurssille jossakin muualla.
 
 Moodle-ilmoittautumisella voit ilmoittautua samalla maksuttomaan kurssikokeeseen. Lisätietoa kokeista löytyy täältä: [Arvostelu ja kokeet](/arvostelu-ja-kokeet)
