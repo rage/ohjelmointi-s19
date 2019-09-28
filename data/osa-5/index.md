@@ -2,7 +2,7 @@
 path: '/osa-5'
 title: 'Osa 5'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
@@ -34,7 +34,7 @@ hidden: true
 </only-for-not-logged-in>
 
 
-Tässä osassa jatkat matkaasi olio-ohjelmoinnin saloihin. Opit Javan alkeis- ja viittaustyyppisistä muuttujista sekä niiden eroista. Opit kuormittamaan konstruktoreja ja metodeja eli luomaan useita konstruktoreja ja useita samannimisiä metodeja. Tutustut olioiden samankaltaisuuden vertailuun ja opit luomaan olioiden vertailussa käytettävän equals-metodin omiin luokkiisi. Harjoittelet olioiden käyttöä oliomuuttujina ja metodien paluuarvona. Opettelet lisäksi listojen käyttöä oliomuuttujina sekä harjoittelet yksikkötestien kirjoittamista.
+Tässä osassa jatkat matkaasi olio-ohjelmoinnin saloihin. Opit Javan alkeis- ja viittaustyyppisistä muuttujista sekä niiden eroista. Opit kuormittamaan konstruktoreja ja metodeja eli luomaan useita konstruktoreja ja useita samannimisiä metodeja. Tutustut olioiden samankaltaisuuden vertailuun ja opit luomaan olioiden vertailussa käytettävän equals-metodin omiin luokkiisi. Harjoittelet olioiden käyttöä oliomuuttujina ja metodien paluuarvona. Opettelet lisäksi listojen käyttöä oliomuuttujina.
 
 
 <please-login></please-login>
