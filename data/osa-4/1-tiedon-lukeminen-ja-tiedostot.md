@@ -145,6 +145,8 @@ Tässä tehtävässä ei ohjelmoida, vaan tutustutaan tiedoston luomiseen.
 
 Luo tehtäväpohjan juurikansioon (samassa kansiossa kansio `src` ja tiedosto `pom.xml`) tiedosto nimeltä `tiedosto.txt`. Muokkaa tiedostoa, ja kirjoita tiedoston ensimmäisen rivin alkuun viesti `Hei maailma`.
 
+Tiedoston pystyy luomaan mm. käyttöjärjestelmän tiedostonhallintajärjestelmällä, tai Netbeansista valitsemalla `File -> New File -> Other -> Empty File`.
+
 </programming-exercise>
 
 
