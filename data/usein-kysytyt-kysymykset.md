@@ -18,7 +18,7 @@ Varmista että sinulla on uusin versio TMC liitännäisestä valitsemalla Netbea
 Sulje kaikki tehtävät netbeansissa, ja Avaa Netbeansissa TMC-asetukset klikkaamalla TMC -> settings. Vaihda organisaatioksi Helsingin yliopisto, kurssiksi ohjelmoinnin perusteet. Seuraa materiaalia täällä, osoitteessa ohjelmointi-s19.mooc.fi -- se "s" on tärkeä, se erottaa syksyn kurssin kevään kurssista.
 
 ### Osaan jo ohjelmoida, voinko tenttiä kurssin?
-Kurssila järjestetään toisella viikolla korvaava koe, jolla voi suorittaa kurssin jos kurssin asiat ovat jo hallussa. Ilmoittaudu kurssisn moodle-sivulla.
+Kurssilla järjestetään toisella viikolla korvaava koe, jolla voi suorittaa kurssin jos kurssin asiat ovat jo hallussa. Ilmoittaudu kurssisn moodle-sivulla.
 
 ### En tiedä, mikä organisaatio ja kurssiversio minun pitäisi valita
 syksyn 2019 luentokurssilla valitaan organisaatioksi "Helsingin yliopisto" ja kurssiksi "Ohjelmoinnin perusteet, syksy 2019"
