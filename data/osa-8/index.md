@@ -2,11 +2,11 @@
 path: '/osa-8'
 title: 'Osa 8'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>18.3.2019</deadline>
+  <deadline>7.11.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
@@ -14,7 +14,7 @@ hidden: true
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-dl">
-  <deadline>18.3.2019</deadline>
+  <deadline>7.11.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-nodl">
@@ -37,11 +37,13 @@ Tässä osassa tutustut olio-ohjelmoinnin kahteen keskeiseen käsitteeseen eli p
 
 <please-login></please-login>
 
-<text-box variant="hint" name="Jos tulet kurssille tässä vaiheessa mukaan">
+<text-box variant="hint" name="Vaihda TMC-kurssiversiota">
 
-Kurssin ohjelmointitehtäviä tehdään Test My Code (TMC) -järjestelmässä. Ohjeita TMC-järjestelmän käyttöönottoon löytyy täältä: https://materiaalit.github.io/tmc-asennus/netbeans/.
+Tästä osasta alkaa ohjelmoinnin jatkokurssi. Tämä kurssiversio on tarkoitettu vain Helsingin yliopiston opiskelijoille syksyn 2019 luentokurssitoteutuksessa.
 
-Mikäli et ole osallistunut kurssiin ensimmäisestä osasta lähtien, vaan tulet mukaan vain Ohjelmoinnin jatkokurssia vastaavalle osalle, valitse TMC:n Settings-valikosta kurssi "Ohjelmoinnin MOOC 2019 - Aloitan osasta 8" tai "Ohjelmoinnin MOOC 2019 - Aloitan osasta 8 (aikatauluton)", riippuen siitä haluatko tehdä kurssin aikatauluttomana. Lisäksi valitse tämän materiaalin asetuksien kohdan "Minkä kurssin version pisteet ja kolikot haluat nähdä?" vaihtoehto "Aloitan kurssin osasta 8". Muista myös kerrata materiaalin osat 1-7.
+Kurssin ohjelmointitehtäviä tehdään Test My Code (TMC) -järjestelmässä. Jos et ole käyttänyt tmc-järjestelmää aiemmin, ohjeita TMC-järjestelmän käyttöönottoon löytyy täältä: https://materiaalit.github.io/tmc-asennus/netbeans/.
+
+Päästäksesi käsiksi tämän kurssin tehtäviin, valitse TMC:n Setting-valikosta organisaatioksi Helsingin yliopisto ja kurssiksi "Ohjelmoinnin jatkokurssi, syksy 2019".
 
 </text-box>
 
