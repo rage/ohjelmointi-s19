@@ -37,8 +37,8 @@ vastaavat kurssia Ohjelmoinnin jatkokurssi.
 </b>
 
 Minimivaatimukset: 
->75% jokaisen osan(viikon) tehtäväpisteistä
->80% ohjelmointitehtäväpisteistä yhteensä
+vähintään 75% jokaisen osan(viikon) tehtäväpisteistä
+vähintään 80% ohjelmointitehtäväpisteistä yhteensä
 
 Arvosana määräytyy tentin perusteella,  50%->1, 90%->5 lineaarisella skaalauksella
 Tehtäväpisteistä saa lisäpisteitä, 90%-> +½ arvosanaa, 100%-> +1 arvosanaa, lineaarisella skaalauksella.
