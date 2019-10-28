@@ -23,7 +23,7 @@ Luo tunnus tai kirjaudu sisään, jonka
 jälkeen valitse [Osa 1](/osa-1) navigaatiosta.
 Kaikki ohjeet ohjelmointiympäristön asentamiseen löytyvät osasta 1.2, kohdasta "ohjelmoinnin aloittaminen"
 
-## Sisältö ja kurssin versiot
+## Sisältö
 
 Kurssi koostuu 14 tehtäväsarjasta. Kunkin tehtäväsarjan tekemiseen
 kannattaa varata aikaa noin 5-20 tuntia. 
@@ -31,7 +31,19 @@ kannattaa varata aikaa noin 5-20 tuntia.
 Kurssin osat 1-7 vastaavat kurssia Ohjelmoinnin perusteet. Osat 8-14
 vastaavat kurssia Ohjelmoinnin jatkokurssi.
 
-### Aikataulu - syksy 2019
+## Arvostelu
+<b>
+  Huom! Tämä tieto koskee ainoastaan syksyn 2019 Helsingin yliopiston luentokurssia!
+</b>
+
+Minimivaatimukset: 
+>75% jokaisen osan(viikon) tehtäväpisteistä
+>80% ohjelmointitehtäväpisteistä yhteensä
+
+Arvosana määräytyy tentin perusteella,  50%->1, 90%->5 lineaarisella skaalauksella
+Tehtäväpisteistä saa lisäpisteitä, 90%-> +½ arvosanaa, 100%-> +1 arvosanaa, lineaarisella skaalauksella.
+
+## Aikataulu - syksy 2019
 
 Syksyn 2019 aikataulutetulla luentokurssilla
 
