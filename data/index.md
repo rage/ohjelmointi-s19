@@ -26,9 +26,7 @@ Kaikki ohjeet ohjelmointiympäristön asentamiseen löytyvät osasta 1.2, kohdas
 ## Sisältö ja kurssin versiot
 
 Kurssi koostuu 14 tehtäväsarjasta. Kunkin tehtäväsarjan tekemiseen
-kannattaa varata aikaa noin 5-20 tuntia. Varaamme oikeuden aikataulun
-ja aiheiden muutoksiin, kuitenkin niin, että jokaista tehtäväsarjaa on
-mahdollista suorittaa vähintään kahden viikon ajan.
+kannattaa varata aikaa noin 5-20 tuntia. 
 
 Kurssin osat 1-7 vastaavat kurssia Ohjelmoinnin perusteet. Osat 8-14
 vastaavat kurssia Ohjelmoinnin jatkokurssi.
@@ -75,31 +73,31 @@ Syksyn 2019 aikataulutetulla luentokurssilla
     </tr>
     <tr>
       <td>Osa 8</td>
-      <td>TBA</td>
+      <td>7.11.2019</td>
     </tr>
     <tr>
       <td>Osa 9</td>
-      <td>TBA</td>
+      <td>14.9.2019</td>
     </tr>
     <tr>
       <td>Osa 10</td>
-      <td>TBA</td>
+      <td>21.11.2019</td>
     </tr>
     <tr>
       <td>Osa 11</td>
-      <td>TBA</td>
+      <td>28.11.2019</td>
     </tr>
     <tr>
       <td>Osa 12</td>
-      <td>TBA</td>
+      <td>5.12.2019</td>
     </tr>
     <tr>
       <td>Osa 13</td>
-      <td>TBA</td>
+      <td>12.12.2019</td>
     </tr>
     <tr>
       <td>Osa 14</td>
-      <td>TBA</td>
+      <td>19.12.2019</td>
     </tr>
   </tbody>
 </table>
