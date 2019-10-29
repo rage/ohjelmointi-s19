@@ -643,7 +643,7 @@ public class Tehdas {
 ```
 
 
-<quiz id="3676b63a-22aa-43a7-86d2-1bd9e4b8f23f"></quiz>
+<quiz id="a1192e67-6bc3-542e-82fa-5ceafbdf5ace"></quiz>
 
 <text-box variant='hint' name='Luokkien välisten riippuvuuksien vähentäminen'>
 

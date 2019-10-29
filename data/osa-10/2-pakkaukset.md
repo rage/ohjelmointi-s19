@@ -505,7 +505,7 @@ public class Lentohallinta {
 }
 ```
 
-<quiz id="2ff672ac-1e86-4f60-ada9-f54460845d56"></quiz>
+<quiz id="10f0ca43-470f-5ef7-ae10-0c76fc749286"></quiz>
 
 
 ### Tekstikäyttöliittymä

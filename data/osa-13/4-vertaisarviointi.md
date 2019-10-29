@@ -11,7 +11,7 @@ hidden: true
 </text-box>
 
 
-<quiz id="4eec17f3-323b-475a-9ede-285bc7bb5cfa"></quiz>
+<quiz id="9dd3398b-7300-524d-a30e-9ae83e7254d8"></quiz>
 
 Suunnittelimme ja toteutimme kahdennessatoista osassa oman hajautustauluja käsittelevän tehtävän sekä siihen liittyvät testit. Nyt on taas vertaisarvioinnin aika! Anna vertaispalautetta kahdesta jonkun toisen kurssilaisen lähettämästä tehtävästä ja arvioi lopuksi itse tekemääsi tehtävää. Itse tekemäsi tehtävä näkyy vain jos olet tehnyt sen -- jos et tehnyt tehtävää, pääset arvioimaan yhden ylimääräisen tehtävän.
 

@@ -59,7 +59,7 @@ Mikäli tiedostoja haluaa käsitellä siten, että kirjoitus tapahtuu olemassaol
 
 <br/>
 
-<quiz id="42343ea4-2a23-42ef-9a06-21dad5aa1671"></quiz>
+<quiz id="8480e24e-4391-5395-b305-7cd3b9d3fad9"></quiz>
 
 
 <programming-exercise name='Muistava sanakirja (4 osaa)' nocoins='true' tmcname='osa10-Osa10_13.MuistavaSanakirja'>

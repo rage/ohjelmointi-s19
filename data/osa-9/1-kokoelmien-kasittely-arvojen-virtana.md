@@ -13,7 +13,7 @@ hidden: true
 
 </text-box>
 
-<quiz id="2a9f8b11-1b20-4f4d-98f2-d9f66d838a92"></quiz>
+<quiz id="53313d6f-a852-58ce-8eb8-91709cde6032"></quiz>
 
 
 Tutustutaan kokoelmien kuten listojen läpikäyntiin arvojen virtana (stream). Virta on menetelmä tietoa sisältävän kokoelman läpikäyntiin siten, että ohjelmoija määrittelee kullekin arvolle suoritettavan toiminnallisuuden. Indeksistä tai kullakin hetkellä käsiteltävästä muuttujasta ei pidetä kirjaa.
@@ -420,7 +420,7 @@ positiiviset.stream()
 </sample-output>
 
 
-<quiz id='21d6120d-d75c-42a8-ab42-ad0748efd583'></quiz>
+<quiz id='270d989e-0500-516e-93c8-3be4064e19fd'></quiz>
 
 
 <programming-exercise name='Jaolliset' tmcname='osa09-Osa09_04.Jaolliset'>

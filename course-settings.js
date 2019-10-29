@@ -3,7 +3,7 @@ const courseSettings = {
   name: "Ohjelmointi Syksy 2019",
   subtitle: "Opi ohjelmoinnin alkeet",
   slug: "ohjelmointi-s19",
-  tmcCourse: "ohjelmoinnin-perusteet-s19",
+  tmcCourse: "ohjelmoinnin-jatkokurssi-s19",
   tmcOrganization: "hy",
   bannerPath: "banner.svg",
   sidebarEntries: [
