@@ -2,23 +2,23 @@
 path: '/osa-9'
 title: 'Osa 9'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>25.3.2019</deadline>
+  <deadline>14.11.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
-  <deadline>4.1.2020</deadline>
+  <deadline>14.11.2020</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-dl">
-  <deadline>25.3.2019</deadline>
+  <deadline>14.11.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-nodl">
-  <deadline>20.1.2019</deadline>
+  <deadline>14.11.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="kesa-dl">
