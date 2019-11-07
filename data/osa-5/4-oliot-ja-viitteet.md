@@ -405,7 +405,7 @@ public class Esimerkki {
 
 <text-box variant='hint' name='Päivämäärän käyttö Java-ohjelmissa'>
 
-Käytämme edellä omaa luokkaa `Paivays` päivämäärän esittämiseen, sillä sen avulla voi havainnollistaa ja harjoitella olioiden toimintaa. Mikäli omissa ohjelmissaan haluaa käsitellä päivämääriä, kannattaa tutustua Javan valmiiseen luokkaan <a href="https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html" target="_blank">LocalDate</a>, joka sisältää merkittävän määrän päivämäärien käsittelyyn liittyvää toiminnallisuutta. Tutustumme päivämäärien käsittelyyn valmiiden luokkien avulla Ohjelmoinnin jatkokurssilla.
+Käytämme edellä omaa luokkaa `Paivays` päivämäärän esittämiseen, sillä sen avulla voi havainnollistaa ja harjoitella olioiden toimintaa. Mikäli omissa ohjelmissaan haluaa käsitellä päivämääriä, kannattaa tutustua Javan valmiiseen luokkaan [LocalDate](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html), joka sisältää merkittävän määrän päivämäärien käsittelyyn liittyvää toiminnallisuutta. Tutustumme päivämäärien käsittelyyn valmiiden luokkien avulla Ohjelmoinnin jatkokurssilla.
 
 </text-box>
 

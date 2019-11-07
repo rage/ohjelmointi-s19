@@ -27,11 +27,11 @@ Virheitä ei kannata missään nimessä pelätä tai välttää, sillä virheit�
 <text-box variant='hint' name='Ohjelmistovirhe'>
 
 
-Osoitteessa <a href="http://sunnyday.mit.edu/accidents/MCO_report.pdf" target="_blank">http://sunnyday.mit.edu/accidents/MCO_report.pdf</a> oleva raportti kuvaa erään hieman vakavamman ohjelmistovirheestä johtuneen tapaturman sekä ohjelmistovirheen.
+Osoitteessa [http://sunnyday.mit.edu/accidents/MCO_report.pdf](http://sunnyday.mit.edu/accidents/MCO_report.pdf) oleva raportti kuvaa erään hieman vakavamman ohjelmistovirheestä johtuneen tapaturman sekä ohjelmistovirheen.
 
 <br/>
 
-Ohjelmistovirhe liittyi siihen, että käytetty ohjelma odotti, että ohjelmoija käyttäisi <a href="https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4" target="_blank">kansainvälistä yksikköjärjestelmää</a> laskuissa (metrit, kilogrammat, ...). Ohjelmoija oli kuitenkin käyttänyt <a href="https://en.wikipedia.org/wiki/English_Engineering_units" target="_blank">amerikkalaista mittajärjestelmää</a> erään järjestelmän osan laskuissa, jolloin satelliitin navigointiin liittynyt automaattinen korjausjärjestelmä ei toiminut oikein.
+Ohjelmistovirhe liittyi siihen, että käytetty ohjelma odotti, että ohjelmoija käyttäisi [kansainvälistä yksikköjärjestelmää](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4) laskuissa (metrit, kilogrammat, ...). Ohjelmoija oli kuitenkin käyttänyt [amerikkalaista mittajärjestelmää](https://en.wikipedia.org/wiki/English_Engineering_units) erään järjestelmän osan laskuissa, jolloin satelliitin navigointiin liittynyt automaattinen korjausjärjestelmä ei toiminut oikein.
 
 <br/>
 
@@ -137,7 +137,7 @@ Edellä esitetty menetelmä automaattiseen testaamiseen missä ohjelmalle syöte
 
 Yksikkötestauksella tarkoitetaan lähdekoodiin kuuluvien yksittäisten osien kuten luokkien ja niiden tarjoamien metodien testaamista.  Luokkien ja metodien rakenteen suunnittelussa käytettävän ohjesäännön -- jokaisella metodilla ja luokalla tulee olla yksi selkeä vastuu -- noudattamisen tai siitä poikkeamisen huomaa testejä kirjoittaessa. Mitä useampi vastuu metodilla on, sitä monimutkaisempi testi on. Jos laaja sovellus on kirjoitettu yksittäiseen metodiin, on testien kirjoittaminen sitä varten erittäin haastavaa ellei jopa mahdotonta. Vastaavasti, jos sovellus on pilkottu selkeisiin luokkiin ja metodeihin, on testienkin kirjoittaminen suoraviivaista.
 
-Testien kirjoittamisessa hyödynnetään tyypillisesti valmiita yksikkötestauskirjastoja, jotka tarjoavat metodeja ja apuluokkia testien kirjoittamiseen. Javassa käytetyin yksikkötestauskirjasto on <a href="http://junit.org/" target="_blank" rel="noopener">JUnit</a>, johon löytyy myös tuki lähes kaikista ohjelmointiympäristöistä. Esimerkiksi NetBeans osaa automaattisesti etsiä JUnit-testejä projektista -- jos testejä löytyy, ne näytetään projektin alla Test Packages -kansiossa.
+Testien kirjoittamisessa hyödynnetään tyypillisesti valmiita yksikkötestauskirjastoja, jotka tarjoavat metodeja ja apuluokkia testien kirjoittamiseen. Javassa käytetyin yksikkötestauskirjasto on [JUnit](http://junit.org/), johon löytyy myös tuki lähes kaikista ohjelmointiympäristöistä. Esimerkiksi NetBeans osaa automaattisesti etsiä JUnit-testejä projektista -- jos testejä löytyy, ne näytetään projektin alla Test Packages -kansiossa.
 
 <br/>
 
@@ -293,7 +293,7 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 
 ## Testivetoinen ohjelmistokehitys
 
-Testivetoinen ohjelmistokehitys (<a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noopener">Test-driven development</a>) on ohjelmistokehitysprosessi, joka perustuu ohjelman rakentamiseen pienissä osissa. Testivetoisessa ohjelmistokehityksessä ohjelmoija kirjoittaa aina ensin automaattisesti suoritettavan yksittäistä tietokoneohjelman osaa tarkastelevan testin.
+Testivetoinen ohjelmistokehitys ([Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)) on ohjelmistokehitysprosessi, joka perustuu ohjelman rakentamiseen pienissä osissa. Testivetoisessa ohjelmistokehityksessä ohjelmoija kirjoittaa aina ensin automaattisesti suoritettavan yksittäistä tietokoneohjelman osaa tarkastelevan testin.
 
 Testi ei mene läpi, sillä testin täyttävä toiminnallisuus eli tarkasteltava tietokoneohjelman osa puuttuu. Kun testi on kirjoitettu, ohjelmaan lisätään toiminnallisuus, joka täyttää testin vaatimukset. Testit suoritetaan uudestaan, jonka jälkeen -- jos kaikki testit menevät läpi -- lisätään uusi testi tai vaihtoehtoisesti -- jos testit eivät mene läpi -- korjataan aiemmin kirjoitettua ohjelmaa. Ohjelman sisäistä rakennetta korjataan eli refaktoroidaan tarvittaessa siten, että ohjelman toiminnallisuus pysyy samana mutta rakenne selkiytyy.
 

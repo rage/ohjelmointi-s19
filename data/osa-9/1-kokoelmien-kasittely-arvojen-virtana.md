@@ -70,7 +70,7 @@ long kolmellaJaollistenLukumaara = syotteet.stream()
 ```
 
 
-Virta luodaan mistä tahansa <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html" target="_blank" norel>Collection</a>-rajapinnan toteuttavasta oliosta (esim. ArrayList, HashSet, HashMap, ...) metodilla `stream()`. Tämän jälkeen merkkijonomuotoiset arvot muunnetaan ("map") kokonaislukumuotoon virran metodilla `mapToInt(arvo -> muunnos)` -- muunto toteutetaan `Integer`-luokan tarjoamalla `valueOf`-metodilla, jota olemme käyttäneet aiemminkin. Seuraavaksi rajaamme metodilla `filter(arvo -> rajausehto)` käsiteltäväksi vain ne luvut, jotka ovat kolmella jaollisia. Lopulta kutsumme virran metodia `count()`, joka laskee virran alkioiden lukumäärän ja palauttaa sen `long`-tyyppisenä muuttujana.
+Virta luodaan mistä tahansa [Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)-rajapinnan toteuttavasta oliosta (esim. ArrayList, HashSet, HashMap, ...) metodilla `stream()`. Tämän jälkeen merkkijonomuotoiset arvot muunnetaan ("map") kokonaislukumuotoon virran metodilla `mapToInt(arvo -> muunnos)` -- muunto toteutetaan `Integer`-luokan tarjoamalla `valueOf`-metodilla, jota olemme käyttäneet aiemminkin. Seuraavaksi rajaamme metodilla `filter(arvo -> rajausehto)` käsiteltäväksi vain ne luvut, jotka ovat kolmella jaollisia. Lopulta kutsumme virran metodia `count()`, joka laskee virran alkioiden lukumäärän ja palauttaa sen `long`-tyyppisenä muuttujana.
 
 
 Tarkastellaan tämän jälkeen listan alkioiden keskiarvon laskemiseen tarkoitettua ohjelmaa.
@@ -84,7 +84,7 @@ double keskiarvo = syotteet.stream()
     .getAsDouble();
 ```
 
-Keskiarvon laskeminen onnistuu virrasta, jolle on kutsuttu `mapToInt`-metodia. Kokonaislukuja sisältävällä virralla on metodi `average()`, joka palauttaa <a href="https://docs.oracle.com/javase/8/docs/api/java/util/OptionalDouble.html" target="_blank" norel>OptionalDouble</a>-tyyppisen olion. Oliolla on metodi `getAsDouble()`, joka palauttaa listan arvojen keskiarvon `double`-tyyppisenä muuttujana.
+Keskiarvon laskeminen onnistuu virrasta, jolle on kutsuttu `mapToInt`-metodia. Kokonaislukuja sisältävällä virralla on metodi `average()`, joka palauttaa [OptionalDouble](https://docs.oracle.com/javase/8/docs/api/java/util/OptionalDouble.html)-tyyppisen olion. Oliolla on metodi `getAsDouble()`, joka palauttaa listan arvojen keskiarvon `double`-tyyppisenä muuttujana.
 
 Lyhyt yhteenveto tähän mennessä tutuiksi tulleista virtaan liittyvistä metodeista.
 
@@ -392,7 +392,7 @@ luvut.stream()
 </sample-output>
 
 
-Virran arvojen kerääminen toiseen kokoelmaan onnistuu metodin `collect` avulla. Alla olevassa esimerkissä luodaan uusi lista annetun positiivisista arvoista. Metodille `collect` annetaan parametrina <a href="https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html" target="_blank" norel>Collectors</a>-luokan avulla luotu olio, johon virran arvot kerätään -- esimerkiksi kutsu `Collectors.toCollection(ArrayList::new)` luo uuden ArrayList-olion, johon arvot kerätään.
+Virran arvojen kerääminen toiseen kokoelmaan onnistuu metodin `collect` avulla. Alla olevassa esimerkissä luodaan uusi lista annetun positiivisista arvoista. Metodille `collect` annetaan parametrina [Collectors](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html)-luokan avulla luotu olio, johon virran arvot kerätään -- esimerkiksi kutsu `Collectors.toCollection(ArrayList::new)` luo uuden ArrayList-olion, johon arvot kerätään.
 
 
 ```java
@@ -766,7 +766,7 @@ Tehtäväpohjassa on tutuhko tehtävä "Tavara, Matkalaukku ja Lastiruuma". Täs
 
 ## Tiedostot ja virta
 
-Virta on myös erittäin näppärä tiedostojen käsittelyssä. Tiedoston lukeminen virtamuotoisena tapahtuu Javan valmiin <a href="https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html" target="_blank" rel="noopener">Files</a>-luokan avulla. Files-luokan metodin `lines` avulla tiedostosta voidaan luoda syötevirta, jonka avulla tiedoston rivit voidaan käsitellä yksi kerrallaan. Metodi `lines` saa patametrikseen polun, joka luodaan luokan <a href="https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html" target="_blank" rel="noopener">Paths</a> tarjoamalla metodilla `get`, jolle annetaan parametrina tiedostopolkua kuvaava merkkijono.
+Virta on myös erittäin näppärä tiedostojen käsittelyssä. Tiedoston lukeminen virtamuotoisena tapahtuu Javan valmiin [Files](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html)-luokan avulla. Files-luokan metodin `lines` avulla tiedostosta voidaan luoda syötevirta, jonka avulla tiedoston rivit voidaan käsitellä yksi kerrallaan. Metodi `lines` saa patametrikseen polun, joka luodaan luokan [Paths](https://docs.oracle.com/javase/8/docs/api/java/nio/file/Paths.html) tarjoamalla metodilla `get`, jolle annetaan parametrina tiedostopolkua kuvaava merkkijono.
 
 Alla olevassa esimerkissä luetaan tiedoston "tiedosto.txt" kaikki rivit ja lisätään ne listaan.
 

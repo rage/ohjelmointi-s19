@@ -14,7 +14,7 @@ hidden: false
 
 </text-box>
 
-<a href="http://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html">Hajautustaulu</a> eli HashMap on ArrayListin lisäksi eniten käytettyjä Javan valmiiksi tarjoamia tietorakenteita. Hajautustaulua käytetään kun tietoa käsitellään avain-arvo -pareina, missä avaimen perusteella voidaan lisätä, hakea ja poistaa arvo.
+[Hajautustaulu](http://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) eli HashMap on ArrayListin lisäksi eniten käytettyjä Javan valmiiksi tarjoamia tietorakenteita. Hajautustaulua käytetään kun tietoa käsitellään avain-arvo -pareina, missä avaimen perusteella voidaan lisätä, hakea ja poistaa arvo.
 
 <br/>
 

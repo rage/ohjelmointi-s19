@@ -137,7 +137,7 @@ System.out.println(taulukkoMerkkijonona(matriisi));
 <programming-exercise name='Taikaneliö (4 osaa)' tmcname='osa11-Osa11_10.Taikanelio'>
 
 
-<a href="https://fi.wikipedia.org/wiki/Taikaneli%C3%B6" target="_blank">Taikaneliöt</a> ovat kokonaisluvuista järjestettyjä neliöitä, joiden jokaisen rivin, sarakkeen ja lävistäjän summa on sama. Harjoitellaan taulukoiden käyttöä taikaneliöiden yhteydessä.
+[Taikaneliöt](https://fi.wikipedia.org/wiki/Taikaneli%C3%B6) ovat kokonaisluvuista järjestettyjä neliöitä, joiden jokaisen rivin, sarakkeen ja lävistäjän summa on sama. Harjoitellaan taulukoiden käyttöä taikaneliöiden yhteydessä.
 
 <br/>
 
@@ -213,7 +213,7 @@ Vaikka taikaneliö ei olisi "oikea" taikaneliö, tulee lävistäjien summat silt
 
 Huom! Tämä tehtävä on melko visainen, kannattanee palauttaa edelliset osat ennen tämän aloitusta.
 
-Taikaneliön pystyy myös luomaan. Tutustutaan <a href="https://en.wikipedia.org/wiki/Siamese_method" target="_blank">Siamese method</a>-menetelmään, jonka avulla voidaan luoda parittomien lukujen kokoisia taikaneliöitä.
+Taikaneliön pystyy myös luomaan. Tutustutaan [Siamese method](https://en.wikipedia.org/wiki/Siamese_method)-menetelmään, jonka avulla voidaan luoda parittomien lukujen kokoisia taikaneliöitä.
 
 <br/>
 
@@ -224,7 +224,7 @@ Lukujen lisäämiseen liittyy kaksi sääntöä:
 1. Jos siirtymä tapahtuu siten, että mennään taikaneliön alueen ulkopuolelle, hypätään toiselle laidalle. Jos siis mennään "oikealta yli" mennään vasempaan laitaan ja jos mennään "ylhäältä yli" mennään alalaitaan.
 2. Jos kohdassa on jo luku, ei mennäkään ylös ja oikealle, vaan astutaan yksi askel alaspäin.
 
-Käy katsomassa yllä kuvatun algoritmin visualisaatio Wikipedian sivulta <a href="https://en.wikipedia.org/wiki/Siamese_method" target="_blank">Siamese method</a>.
+Käy katsomassa yllä kuvatun algoritmin visualisaatio Wikipedian sivulta [Siamese method](https://en.wikipedia.org/wiki/Siamese_method).
 
 <br/>
 

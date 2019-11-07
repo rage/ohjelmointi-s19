@@ -535,7 +535,7 @@ ei ole pata
 
 </sample-output>
 
-Huomaamme, että enumin tunnukset tulostuvat mukavasti! Oraclella on `enum`-tyyppiin liittyvä sivusto osoitteessa <a href="http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html" target="_blank" rel="noopener">http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html</a>.
+Huomaamme, että enumin tunnukset tulostuvat mukavasti! Oraclella on `enum`-tyyppiin liittyvä sivusto osoitteessa [http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html](http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html).
 
 
 
@@ -574,7 +574,7 @@ System.out.println(Maa.HERTTA.ordinal());
 
 Luetellut tyypit voivat sisältää oliomuuttujia. Oliomuuttujien arvot tulee asettaa luetellun tyypin määrittelevän luokan sisäisessä eli näkyvyysmääreen `private` omaavassa konstruktorissa. Enum-tyyppisillä luokilla ei saa olla `public`-konstruktoria.
 
-Seuraavassa lueteltu tyyppi `Vari`, joka sisältää vakioarvot PUNAINEN, VIHREA ja SININEN. Vakioille on määritelty <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noopener">värikoodin</a> kertova oliomuuttuja:
+Seuraavassa lueteltu tyyppi `Vari`, joka sisältää vakioarvot PUNAINEN, VIHREA ja SININEN. Vakioille on määritelty [värikoodin](https://www.w3schools.com/colors/colors_picker.asp) kertova oliomuuttuja:
 
 
 ```java
@@ -821,7 +821,7 @@ HERTTA Q
 
 Tee Kortti-luokasta `Comparable`. Toteuta `compareTo`-metodi niin, että korttien järjestys on arvon mukaan nouseva. Jos verrattavien Korttien arvot ovat samat, verrataan niitä maan perusteella nousevassa järjestyksessä: *risti ensin, ruutu toiseksi, hertta kolmanneksi, pata viimeiseksi.*
 
-Maiden järjestämisessä apua löytynee <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html#ordinal--"  target="_blank" norel>Enum-luokan ordinal-metodista</a>.
+Maiden järjestämisessä apua löytynee [Enum-luokan ordinal-metodista](https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html#ordinal--).
 
 Järjestyksessä pienin kortti siis olisi ristikakkonen ja suurin pataässä.
 
@@ -1004,7 +1004,7 @@ Collections.sort(kortit, (k1, k2) -> k1.getMaa().ordinal() - k2.getMaa().ordinal
   ```
 
 
-Tarkempia ohjeita vertailuluokkien tekemiseen <a href="http://leepoint.net/data/collections/comparators.html">täällä</a>
+Tarkempia ohjeita vertailuluokkien tekemiseen [täällä](http://leepoint.net/data/collections/comparators.html)
 
 
 Tee nyt luokka Comparator-rajapinnan toteuttava luokka `SamatMaatVierekkainArvojarjestykseen` jonka avulla saat kortit muuten samanlaiseen järjestykseen kuin edellisessä esimerkissä paitsi, että saman maan kortit järjestyvät arvon mukaisesti.

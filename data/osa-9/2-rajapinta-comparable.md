@@ -14,7 +14,7 @@ hidden: false
 </text-box>
 
 
-Edellisessä osassa tarkastelimme rajapintoja yleisemmin -- tutustutaan nyt yhteen Javan valmiista rajapinnoista. <a href="http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html">Comparable</a>-rajapinta määrittelee metodin `compareTo`, jota käytetään olioiden vertailuun. Mikäli luokka toteuttaa rajapinnan Comparable, voidaan luokasta tehdyt oliot järjestää Javan valmiita järjestysalgoritmeja käyttäen.
+Edellisessä osassa tarkastelimme rajapintoja yleisemmin -- tutustutaan nyt yhteen Javan valmiista rajapinnoista. [Comparable](http://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html)-rajapinta määrittelee metodin `compareTo`, jota käytetään olioiden vertailuun. Mikäli luokka toteuttaa rajapinnan Comparable, voidaan luokasta tehdyt oliot järjestää Javan valmiita järjestysalgoritmeja käyttäen.
 
 Comparable-rajapinnan vaatima compareTo-metodi saa parametrinaan olion, johon "this"-oliota verrataan. Mikäli olio on vertailujärjestyksessä ennen parametrina saatavaa olioa, tulee metodin palauttaa negatiivinen luku. Mikäli taas olio on järjestyksessä parametrina saatavan olion jälkeen, tulee metodin palauttaa positiivinen luku. Muulloin palautetaan luku 0. Tätä `compareTo`-metodin avulla johdettua järjestystä kutsutaan *luonnolliseksi järjestykseksi* (natural ordering).
 
@@ -224,7 +224,7 @@ henkilot.add(new Henkilo("Mary Coombs", 1929));
 
 Haluamme järjestää listan ilman, että henkilo-olion tulee toteuttaa rajapinta `Comparable`.
 
-Sekä luokan `Collections` metodille `sort` että virran metodille `sorted` voidaan antaa parametrina lambda-lauseke, joka määrittelee järjestämistoiminnallisuuden. Tarkemmin ottaen kummallekin metodille voidaan antaa <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html" target="_blank">Comparator</a>-rajapinnan toteuttama olio, joka määrittelee halutun järjestyksen -- lambda-lausekkeen avulla luodaan tämä olio.
+Sekä luokan `Collections` metodille `sort` että virran metodille `sorted` voidaan antaa parametrina lambda-lauseke, joka määrittelee järjestämistoiminnallisuuden. Tarkemmin ottaen kummallekin metodille voidaan antaa [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)-rajapinnan toteuttama olio, joka määrittelee halutun järjestyksen -- lambda-lausekkeen avulla luodaan tämä olio.
 
 
 ```java
@@ -342,7 +342,7 @@ palat[1] = palat[1].trim();
 
 ## Järjestäminen useamman asian perusteella
 
-Joskus haluamme järjestää esineitä useamman asian perusteella. Tarkastellaan seuraavaksi esimerkkiä, missä elokuvat listataan nimen ja julkaisuvuoden perusteella järjestettynä. Tässä käytämme Javan valmista <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html" target="_blank" norel>Comparator</a>-luokkaa, joka tarjoaa menetelmiä järjestämiseen. Oletetaan, että käytössämme on seuraava luokka `Elokuva`
+Joskus haluamme järjestää esineitä useamman asian perusteella. Tarkastellaan seuraavaksi esimerkkiä, missä elokuvat listataan nimen ja julkaisuvuoden perusteella järjestettynä. Tässä käytämme Javan valmista [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)-luokkaa, joka tarjoaa menetelmiä järjestämiseen. Oletetaan, että käytössämme on seuraava luokka `Elokuva`
 
 
 ```java

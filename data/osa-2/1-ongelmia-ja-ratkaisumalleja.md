@@ -437,7 +437,7 @@ public class Ohjelma {
 ```
 
 
-**Keskiarvon laskeminen**: lukujen keskiarvon laskemiseen tarvitaan lukujen lukumäärä sekä lukujen summa. Kun nämä ovat tiedossa, saadaan keskiarvo laskettua jakamalla summa lukumäärällä. Huomaa, että nollalla jakaminen ei ole matemaattisessa mielessä sallittua, kts. <a href="https://fi.wikipedia.org/wiki/Nollalla_jakaminen" target="_blank">https://fi.wikipedia.org/wiki/Nollalla_jakaminen</a>. Joissakin ohjelmointikielissä tämä on kuitenkin mahdollista. Mikäli ohjelmassa jakaa luvun nollalla, on lopputulos erittäin harvoin toivottu.
+**Keskiarvon laskeminen**: lukujen keskiarvon laskemiseen tarvitaan lukujen lukumäärä sekä lukujen summa. Kun nämä ovat tiedossa, saadaan keskiarvo laskettua jakamalla summa lukumäärällä. Huomaa, että nollalla jakaminen ei ole matemaattisessa mielessä sallittua, kts. [https://fi.wikipedia.org/wiki/Nollalla_jakaminen](https://fi.wikipedia.org/wiki/Nollalla_jakaminen). Joissakin ohjelmointikielissä tämä on kuitenkin mahdollista. Mikäli ohjelmassa jakaa luvun nollalla, on lopputulos erittäin harvoin toivottu.
 
 
 ```java

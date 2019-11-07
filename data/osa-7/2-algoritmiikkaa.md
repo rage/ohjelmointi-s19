@@ -25,7 +25,7 @@ Sana algoritmi juontaa juurensa Muhammad ibn Musa al-Khwarizmi -nimiseen henkil�
 
 Ensimmäiset korkeakulttuurit syntyivät (laajemman) lähi-idän alueelle, mikä nopeutti siellä myös henkistä kasvua. Lähi-idässä oltiin merkittävästi muuta maailmaa edellä muunmuassa matematiikassa ja tähtitieteessä -- esimerkiksi Euroopassa 1500-luvulla tapahtunut murros tähtitieteessä (maa kiertääkin aurinkoa eikä toisin päin), tapahtui laajemman lähi-idän vaikutuspiirissä olleessa kreikassa jo noin 300 vuotta ennen ajanlaskumme alkua.
 
-Nimi al-Khwarizmi viittaa oikeastaan alueeseen, tai hieman laajemmin, etuosa al- viittaa usein henkilön synty- tai kotipaikkaan. <a href="https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi" target="_blank" rel="noopener">Muhammad ibn Musa al-Khwarizmi</a> -- tai hänen isänsä tai esi-isänsä -- tulivat keskiaasiasta alueelta, joka tunnetaan nykyään suomen kielessä nimellä <a href="https://fi.wikipedia.org/wiki/Harezm" target="_blank" rel="noopener">Harezm</a>. Nykyään käytetty termi **algoritmi** onkin hatunnosto sekä Muhammad ibn Musa al-Khwarizmille että hänen syntyperälleen.
+Nimi al-Khwarizmi viittaa oikeastaan alueeseen, tai hieman laajemmin, etuosa al- viittaa usein henkilön synty- tai kotipaikkaan. [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) -- tai hänen isänsä tai esi-isänsä -- tulivat keskiaasiasta alueelta, joka tunnetaan nykyään suomen kielessä nimellä [Harezm](https://fi.wikipedia.org/wiki/Harezm). Nykyään käytetty termi **algoritmi** onkin hatunnosto sekä Muhammad ibn Musa al-Khwarizmille että hänen syntyperälleen.
 
 <br/>
 

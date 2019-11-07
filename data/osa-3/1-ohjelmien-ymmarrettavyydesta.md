@@ -275,7 +275,7 @@ Yleisesti ottaen voidaan ajatella niin, että vaikeasti ymmärrettävät ohjelma
 
 
 
-Edellä puhuimme kommenteista sekä ohjelman pilkkomisesta luokkiin ja metodeihin, jotka kuvaavat ohjelman rakennetta. Seuraava katkelma on <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra" target="_blank" rel="noopener">Edsger W. Dijkstran</a> artikkelista <a href="https://www.cs.utexas.edu/users/EWD/ewd04xx/EWD447.PDF" target="_blank" rel="noopener">On the role of scientific thought</a>.
+Edellä puhuimme kommenteista sekä ohjelman pilkkomisesta luokkiin ja metodeihin, jotka kuvaavat ohjelman rakennetta. Seuraava katkelma on [Edsger W. Dijkstran](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) artikkelista [On the role of scientific thought](https://www.cs.utexas.edu/users/EWD/ewd04xx/EWD447.PDF).
 
 
 _Let me try to explain to you, what to my taste is characteristic for all intelligent thinking. It is, that one is willing to study in depth an aspect of one's subject matter in isolation for the sake of its own consistency, all the time knowing that one is occupying oneself only with one of the aspects. We know that a program must be correct and we can study it from that viewpoint only; we also know that it should be efficient and we can study its efficiency on another day, so to speak. In another mood we may ask ourselves whether, and if so: why, the program is desirable. But nothing is gained - on the contrary! - by tackling these various aspects simultaneously. It is what I sometimes have called "**the separation of concerns**", which, even if not perfectly possible, is yet the only available technique for effective ordering of one's thoughts, that I know of. This is what I mean by "focusing one's attention upon some aspect": it does not mean ignoring the other aspects, it is just doing justice to the fact that from this aspect's point of view, the other is irrelevant. It is being one- and multiple-track minded simultaneously._
@@ -286,7 +286,7 @@ Ohjelmointia harjoitellessa kehittyy luomiensa ohjelmien (sekä muiden luomien o
 
 
 
-Edsger W. Dijkstran ajatusta voidaan jatkaa myös ohjelmien vastuiden näkökulmasta. Robert "Uncle Bob" C. Martin kuvaa <a href="https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html" target="_blank" rel="noopener">blogissaan</a> termiä "**single responsibility principle**" seuraavasti.
+Edsger W. Dijkstran ajatusta voidaan jatkaa myös ohjelmien vastuiden näkökulmasta. Robert "Uncle Bob" C. Martin kuvaa [blogissaan](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) termiä "**single responsibility principle**" seuraavasti.
 
 
 _When you write a software module, you want to make sure that when changes are requested, those changes can only originate from a single person, or rather, a single tightly coupled group of people representing a single narrowly defined business function. You want to isolate your modules from the complexities of the organization as a whole, and design your systems such that each module is responsible (responds to) the needs of just that one business function._
@@ -310,7 +310,7 @@ Ohjelmistoille on tyypillistä se, että ohjelmistoon liittyvät toiveet sekä o
 Ohjelmoijan näkökulmasta tämä tarkoittaa ensisijaisesti sitä, että ohjelmisto kehittyy jatkuvasti. Uudelleenkirjoitettavat osat tulevat tyypillisesti paremmiksi, sillä ohjelmoija oppii ongelma-alueesta siihen liittyviä ratkaisuja kehittäessään. Samalla tämä tarkoittaa sitä, että ohjelmoijan tulee myös säilyttää kokonaiskuva ohjelman rakenteesta, sillä joitain osia saatetaan myös uudelleenkäyttää muissa osissa ohjelmistoa.
 
 
-Voidaan todeta, että hyvin harva ohjelma kirjoitetaan vain kerran. Tätä ajatusta jatkaen on hyvä pyrkiä tilanteeseen, missä ohjelman käyttäjä pääsee kokeilemaan sitä mahdollisimman nopeasti -- tällöin muutostoiveiden kerääminen myös alkaa nopeasti. Ohjelmistoja tehdessä onkin hyvä usein luoda ensin <a href="https://en.wikipedia.org/wiki/Proof_of_concept" target="_blank" rel="noopener">Proof of Concept</a>-sovellus, jolla voidaan kokeilla idean toimivuutta. Jos idea on hyvä, sitä jatkokehitetään -- samalla myös ohjelma kehittyy.
+Voidaan todeta, että hyvin harva ohjelma kirjoitetaan vain kerran. Tätä ajatusta jatkaen on hyvä pyrkiä tilanteeseen, missä ohjelman käyttäjä pääsee kokeilemaan sitä mahdollisimman nopeasti -- tällöin muutostoiveiden kerääminen myös alkaa nopeasti. Ohjelmistoja tehdessä onkin hyvä usein luoda ensin [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept)-sovellus, jolla voidaan kokeilla idean toimivuutta. Jos idea on hyvä, sitä jatkokehitetään -- samalla myös ohjelma kehittyy.
 
 
 <quiz id="45b6aea4-2c5f-404e-9143-23a644ebea63"></quiz>

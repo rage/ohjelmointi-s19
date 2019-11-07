@@ -18,7 +18,7 @@ Luokkakaavio on ohjelmistojen suunnittelussa ja mallinnuksessa käytettävä kaa
 
 Luokkaaviossa kuvattavat luokat vastaavat ohjelmakoodin luokkia. Kaavioissa kuvataan luokkien nimet, attribuutit, luokkien väliset yhteydet sekä mahdollisesti myös metodit.
 
-Tutustumme seuraavaksi luokkakaavioiden merkintään ja tulkintaan. Opimme samalla <a href="https://fi.wikipedia.org/wiki/UML-mallinnus" target="_blank" norel>UML</a>-kielen luokkakaavioiden kuvaamiseen -- yhteisen kielen avulla eri ihmisten piirtämät luokkakaaviot ovat kaikkien ymmärrettävissä.
+Tutustumme seuraavaksi luokkakaavioiden merkintään ja tulkintaan. Opimme samalla [UML](https://fi.wikipedia.org/wiki/UML-mallinnus)-kielen luokkakaavioiden kuvaamiseen -- yhteisen kielen avulla eri ihmisten piirtämät luokkakaaviot ovat kaikkien ymmärrettävissä.
 
 <br/>
 
@@ -362,7 +362,7 @@ Luokkakaaviot ovat erinomainen tapa kuvata ongelma-aluetta ja ongelman muotoa mu
 Luokkakaavioita piirretään ohjelman suunnitteluvaiheessa usein esimerkiksi valkotaulua tai isompaa paperiarkkia käyttäen. Luokkakaaviot kannattaa ajatella poisheitettävinä tuotoksina, jotka auttavat ohjelman rakennuksessa. Kaavion piirtämiseen -- eli tyylin oikeellisuuteen ja yksityiskohtiin -- ei kannata käyttää liian pitkään aikaa. Vastaavasti kaavio kannattaa piirtää sopivalla abstraktiotasolla. Esimerkiksi kymmeniä luokkia sisältävään luokkakaavioon ei kannata merkitä jokaisen luokan jokaista metodia ja muuttujaa: oleellista on, että kaaviosta saa luotua nopean yleiskuvan.
 
 
-Materiaalissa käytetyt luokkakaaviot on piirretty <a href="https://yuml.me/" target="_blank" norel>yUML</a>:n, <a href="https://creately.com" target="_blank" norel>Creately</a>n, ja <a href="https://www.draw.io/" target="_blank" norel>draw.io</a>:n. Myös NetBeansiin löytyy välineitä luokkakaavioiden luomiseen -- esimerkiksi <a href="http://plugins.netbeans.org/plugin/55435/easyuml" target="_blank" norel>easyUML</a> mahdollistaa luokkakaavioiden luomisen suoraan projektin koodista.
+Materiaalissa käytetyt luokkakaaviot on piirretty [yUML](https://yuml.me/):n, [Creately](https://creately.com)n, ja [draw.io](https://www.draw.io/):n. Myös NetBeansiin löytyy välineitä luokkakaavioiden luomiseen -- esimerkiksi [easyUML](http://plugins.netbeans.org/plugin/55435/easyuml) mahdollistaa luokkakaavioiden luomisen suoraan projektin koodista.
 
 
 </text-box>

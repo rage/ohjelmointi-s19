@@ -657,14 +657,14 @@ Vähäisemmät riippuvuudet helpottavat ohjelman laajennettavuutta.
 ## Valmiit rajapinnat
 
 
-Javan API tarjoaa huomattavan määrän valmiita rajapintoja. Tutustutaan tässä neljään usein käytettyyn rajapintaan: <a href="http://docs.oracle.com/javase/8/docs/api/java/util/List.html" target="_blank">List</a>, <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Map.html" target="_blank">Map</a>, <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Set.html" target="_blank">Set</a> ja <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Collection.html" target="_blank">Collection</a>.
+Javan API tarjoaa huomattavan määrän valmiita rajapintoja. Tutustutaan tässä neljään usein käytettyyn rajapintaan: [List](http://docs.oracle.com/javase/8/docs/api/java/util/List.html), [Map](http://docs.oracle.com/javase/8/docs/api/java/util/Map.html), [Set](http://docs.oracle.com/javase/8/docs/api/java/util/Set.html) ja [Collection](http://docs.oracle.com/javase/8/docs/api/java/util/Collection.html).
 
 <br/>
 
 ### List-rajapinta
 
 
-Rajapinta <a href="http://docs.oracle.com/javase/8/docs/api/java/util/List.html">List</a> määrittelee listoihin liittyvän peruskäyttäytymisen. Koska ArrayList-luokka toteuttaa `List`-rajapinnan, voi sitä käyttää myös `List`-rajapinnan kautta.
+Rajapinta [List](http://docs.oracle.com/javase/8/docs/api/java/util/List.html) määrittelee listoihin liittyvän peruskäyttäytymisen. Koska ArrayList-luokka toteuttaa `List`-rajapinnan, voi sitä käyttää myös `List`-rajapinnan kautta.
 
 <br/>
 
@@ -673,7 +673,7 @@ List<String> merkkijonot = new ArrayList<>();
 merkkijonot.add("merkkijono-olio arraylist-oliossa!");
 ```
 
-Kuten huomaamme <a href="http://docs.oracle.com/javase/8/docs/api/java/util/List.html" target="_blank">List-rajapinnan Java API</a>:sta, rajapinnan `List` toteuttavia luokkia on useita. Eräs tietojenkäsittelijöille tuttu listarakenne on linkitetty lista (<a href="http://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html" target="_blank">linked list</a>). Linkitettyä listaa voi käyttää rajapinnan List-kautta täysin samoin kuin ArrayLististä luotua oliota.
+Kuten huomaamme [List-rajapinnan Java API](http://docs.oracle.com/javase/8/docs/api/java/util/List.html):sta, rajapinnan `List` toteuttavia luokkia on useita. Eräs tietojenkäsittelijöille tuttu listarakenne on linkitetty lista ([linked list](http://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)). Linkitettyä listaa voi käyttää rajapinnan List-kautta täysin samoin kuin ArrayLististä luotua oliota.
 
 <br/>
 
@@ -720,7 +720,7 @@ System.out.println(palautaKoko(nimet));
 
 ### Map-rajapinta
 
-Rajapinta <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Map.html">Map</a> määrittelee hajautustauluihin liittyvän peruskäyttäytymisen. Koska HashMap-luokka toteuttaa `Map`-rajapinnan, voi sitä käyttää myös `Map`-rajapinnan kautta.
+Rajapinta [Map](http://docs.oracle.com/javase/8/docs/api/java/util/Map.html) määrittelee hajautustauluihin liittyvän peruskäyttäytymisen. Koska HashMap-luokka toteuttaa `Map`-rajapinnan, voi sitä käyttää myös `Map`-rajapinnan kautta.
 
 <br/>
 
@@ -782,7 +782,7 @@ System.out.println(palautaKoko(nimet));
 ### Set-rajapinta
 
 
-Rajapinta <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Set.html" target="_blank">Set</a> kuvaa joukkoihin liittyvää toiminnallisuutta. Javassa joukot sisältävät aina joko 0 tai 1 kappaletta tiettyä oliota. Set-rajapinnan toteuttaa muun muassa <a href="http://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html" target="_blank">HashSet</a>. Joukon alkioita pystyy käymään läpi seuraavasti.
+Rajapinta [Set](http://docs.oracle.com/javase/8/docs/api/java/util/Set.html) kuvaa joukkoihin liittyvää toiminnallisuutta. Javassa joukot sisältävät aina joko 0 tai 1 kappaletta tiettyä oliota. Set-rajapinnan toteuttaa muun muassa [HashSet](http://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html). Joukon alkioita pystyy käymään läpi seuraavasti.
 
 <br/>
 
@@ -840,7 +840,7 @@ Tulostaa:
 ### Collection-rajapinta
 
 
-Rajapinta <a href="http://docs.oracle.com/javase/8/docs/api/java/util/Collection.html" target="_blank" rel="noopener">Collection</a> kuvaa kokoelmiin liittyvää toiminnallisuutta. Javassa muun muassa listat ja joukot ovat kokoelmia -- rajapinnat List ja Set toteuttavat rajapinnan Collection. Kokoelmarajapinta tarjoaa metodit muun muassa alkioiden olemassaolon tarkistamiseen (metodi `contains`) ja kokoelman koon tarkistamiseen (metodi `size`).
+Rajapinta [Collection](http://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) kuvaa kokoelmiin liittyvää toiminnallisuutta. Javassa muun muassa listat ja joukot ovat kokoelmia -- rajapinnat List ja Set toteuttavat rajapinnan Collection. Kokoelmarajapinta tarjoaa metodit muun muassa alkioiden olemassaolon tarkistamiseen (metodi `contains`) ja kokoelman koon tarkistamiseen (metodi `size`).
 
 <br/>
 

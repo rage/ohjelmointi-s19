@@ -1096,7 +1096,7 @@ Lopun riviparit ovat myös käytännössä identtiset -- kummatkin käsittelevä
 
 Lähes jokaiseen Asteroids-peliin kuuluu pisteiden seuraaminen. Pisteet kirjoitetaan ohjelmaan teksti-oliona, jonka arvoa muutetaan aina pisteiden muuttuessa. Sovitaan, että käyttäjä saa aina 1000 pistettä kun hän saa tuhottua asteroidin.
 
-Javan tarjoama <a href="https://docs.oracle.com/javase/8/javafx/api/javafx/scene/text/Text.html" target="_blank">Text</a>-luokka on tähän tarkoitukseen mainio. Tekstioliolle määritellään koordinaatti sekä sisältö. Alla olevassa esimerkissä pisteet ovat aina 0.
+Javan tarjoama [Text](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/text/Text.html)-luokka on tähän tarkoitukseen mainio. Tekstioliolle määritellään koordinaatti sekä sisältö. Alla olevassa esimerkissä pisteet ovat aina 0.
 
 <br/>
 

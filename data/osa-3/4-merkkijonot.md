@@ -488,7 +488,7 @@ Salaisuus on: znvavbfgv grugl!
 </sample-output>
 
 
-Ylläoleva salaisuus on salattu käyttäen <a href="http://fi.wikipedia.org/wiki/Rot13" target="_blank">Rot13</a>-algoritmia.
+Ylläoleva salaisuus on salattu käyttäen [Rot13](http://fi.wikipedia.org/wiki/Rot13)-algoritmia.
 
 
 </programming-exercise>

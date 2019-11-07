@@ -71,7 +71,7 @@ while (true) {
 ```
 
 
-Kuten yllä olevaa esimerkkiä luettaessa huomataan, kolmesta `int`-muuttujasta koostuvan kellon toiminnallisuus ei ole lähdekoodin lukijalle kovin selkeä. Lähdekoodista on vaikea "nähdä" mistä on kysymys. Eräs <a href="https://en.wikipedia.org/wiki/Kent_Beck" target="_blank" rel="noopener">kuuluisa ohjelmoija</a> on sanonut *"Any fool can write code that a computer can understand.  Good programmers write code that humans can understand"*.
+Kuten yllä olevaa esimerkkiä luettaessa huomataan, kolmesta `int`-muuttujasta koostuvan kellon toiminnallisuus ei ole lähdekoodin lukijalle kovin selkeä. Lähdekoodista on vaikea "nähdä" mistä on kysymys. Eräs [kuuluisa ohjelmoija](https://en.wikipedia.org/wiki/Kent_Beck) on sanonut *"Any fool can write code that a computer can understand.  Good programmers write code that humans can understand"*.
 
 <br/>
 
@@ -459,7 +459,7 @@ Kuution särmän pituus on 2, tilavuus on 8
 <programming-exercise name='Harjoitusapuri' tmcname='osa05-Osa05_04.Harjoitusapuri'>
 
 
-<a href="https://fi.wikipedia.org/wiki/Karvosen_kaava" target="_blank" norel>Karvosen kaavan</a> avulla voidaan laskea tavoitesyke fyysistä harjoittelua varten. Tavoitesykkeen laskeminen perustuu kaavaan `(maksimisyke - leposyke) * (tavoitesykeprosentti) + leposyke`, missä tavoitesyke annetaan prosenttina maksimisykkeestä.
+[Karvosen kaavan](https://fi.wikipedia.org/wiki/Karvosen_kaava) avulla voidaan laskea tavoitesyke fyysistä harjoittelua varten. Tavoitesykkeen laskeminen perustuu kaavaan `(maksimisyke - leposyke) * (tavoitesykeprosentti) + leposyke`, missä tavoitesyke annetaan prosenttina maksimisykkeestä.
 
 
 Esimerkiksi, jos henkilön maksimisyke on `200`, leposyke `50`, ja tavoitesyke `75%` maksimisykkeestä, on tavoiteltava sydämen syke noin `((200-50) * (0.75) + 50)` eli `162.5` lyöntiä minuutissa.

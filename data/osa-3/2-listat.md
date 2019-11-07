@@ -31,7 +31,7 @@ String sana10;
 Tämä ratkaisu on oikeastaan kelvoton -- ajattele ylläoleva esimerkki vaikkapa tuhannella sanalla.
 
 
-Ohjelmointikielet tarjoavat apuvälineitä, joiden avulla on helppo säilyttää useita arvoja. Tutustumme seuraavaksi Java-ohjelmointikielen ehkäpä eniten käytettyyn apuvälineeseen <a href="https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html" target="_blank" norel>ArrayListiin</a>. ArrayList on useamman samankaltaisen arvon säilömiseen tarkoitettu lista.  Klikkaamalla linkkiä "<a href="https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html" target="_blank" norel>ArrayList</a>" pääset Javan omaan dokumentaatioon.
+Ohjelmointikielet tarjoavat apuvälineitä, joiden avulla on helppo säilyttää useita arvoja. Tutustumme seuraavaksi Java-ohjelmointikielen ehkäpä eniten käytettyyn apuvälineeseen [ArrayListiin](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html). ArrayList on useamman samankaltaisen arvon säilömiseen tarkoitettu lista.  Klikkaamalla linkkiä "[ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)" pääset Javan omaan dokumentaatioon.
 
 
 
