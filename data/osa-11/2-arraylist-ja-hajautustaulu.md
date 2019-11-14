@@ -495,6 +495,9 @@ Toteuta tehtäväpohjaan edellistä esimerkkiä noudattaen luokka `Lista`. Teht�
 
 Tutustu allaolevaan materiaaliin, ja vastaa kyselyihin.
 
+<quiz id='298b8c63-5812-50fb-bbfd-8058fd14f172'></quiz>
+<quiz id='2dadfc5f-47f2-5466-83ab-b4276f69aa98'></quiz>
+
 <ab-study id="visualization_instructional_effiency_f19">
 
 <!-- A1 no viewing -->
@@ -576,6 +579,8 @@ Avaimen perusteella haettaessa lasketaan ensin avaimen hajautusarvo f(avain). Si
 </only-for-ab-group>
 
 </ab-study>
+
+<quiz id='841c02ba-f5e4-56ab-bdec-0923364178cc'></quiz>
 
 Hahmotellaan hajautustaulun toimintaa.
 

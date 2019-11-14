@@ -13,6 +13,11 @@ hidden: true
 
 Tutustu allaolevaan materiaaliin, ja vastaa kyselyihin.
 
+<quizz >
+
+<quiz id='298b8c63-5812-50fb-bbfd-8058fd14f172'></quiz>
+<quiz id='a8b8f24c-e598-5253-943e-2ef3fb815062'></quiz>
+
 <ab-study id="visualization_instructional_effiency_2_f19">
 
 <!-- A1 no viewing -->
@@ -119,6 +124,8 @@ int kaksiUloitteinenTaulukko[][] = new int[koko_1][koko_2]
 </only-for-ab-group>
 
 </ab-study>
+
+<quiz id='80e552ff-a3bd-5154-a9da-90f56745fe80'></quiz>
 
  Kaksiulotteisen taulukon läpikäynti onnistuu kahden sisäkkäisen for-toistolauseen avulla seuraavasti:
 
