@@ -1,7 +1,7 @@
 ---
 path: '/osa-11/4-moniulotteinen-tieto'
 title: 'Moniulotteinen tieto'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
