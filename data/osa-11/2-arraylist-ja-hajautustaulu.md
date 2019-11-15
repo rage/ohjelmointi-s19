@@ -493,7 +493,7 @@ Toteuta tehtäväpohjaan edellistä esimerkkiä noudattaen luokka `Lista`. Teht�
 
 ## Hajautustaulu
 
-Tutustu allaolevaan materiaaliin, ja vastaa kyselyihin.
+Tässä kappaleessa esitellään hajautustaulujen toimintaa. Vastaa ensin allaoleviin kahteen kyselyyn , ja tutustu sitten materiaaliin. Materiaalin opiskelun jälkeen sinun tulee myös vastata vielä yhteen kyselyyn.
 
 <quiz id='298b8c63-5812-50fb-bbfd-8058fd14f172'></quiz>
 <quiz id='2dadfc5f-47f2-5466-83ab-b4276f69aa98'></quiz>
@@ -526,12 +526,16 @@ Esimerkiksi, jos haluamme löytää avaimen 11 arvon hajautustaulusta, laskemme 
 <!-- A1  viewing -->
 <only-for-ab-group group=2>
 
+Alla oleva visualisaatio käsittelee hajautustaulujen toimintaa. Katsele visualisaatio läpi, ja vastaa sitten allaolevaan kyselyyn.
+
 ![Hajautustaulujen rakenne ja toiminta](./HajautustaulutA1.jpg)
 
 </only-for-ab-group>
 
 <!-- A1  responding -->
 <only-for-ab-group group=3>
+
+Allaoleva powerpoint käsittelee hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 
@@ -563,12 +567,16 @@ Avaimen perusteella haettaessa lasketaan ensin avaimen hajautusarvo f(avain). Si
 <!-- A2   viewing -->
 <only-for-ab-group group=5>
 
+Alla oleva visualisaatio käsittelee hajautustaulujen toimintaa. Katsele visualisaatio läpi, ja vastaa sitten allaolevaan kyselyyn.
+
 ![Hajautustaulujen rakenne ja toiminta](./HajautustaulutA2.jpg)
 
 </only-for-ab-group>
 
 <!-- A2   responding -->
 <only-for-ab-group group=6>
+
+Allaoleva powerpoint käsittelee hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 

@@ -11,7 +11,7 @@ hidden: true
 
 </text-box>
 
-Tutustu allaolevaan materiaaliin, ja vastaa kyselyihin.
+Tässä osassa esitellään moniuloitteista tietoa ja moniuloitteisten taulukkojen toimintaa. Vastaa ensin allaoleviin kahteen kyselyyn , ja tutustu sitten materiaaliin. Materiaalin opiskelun jälkeen sinun tulee myös vastata vielä yhteen kyselyyn.
 
 <quizz >
 
@@ -22,7 +22,7 @@ Tutustu allaolevaan materiaaliin, ja vastaa kyselyihin.
 
 <!-- A1 no viewing -->
 
-<only-for-ab-group group=2>
+<only-for-ab-group group=1>
 
 Toistaiseksi olemme käsitelleet vain yksiuloitteista tietoa yksiuloitteisissa taulukoissa, joissa indeksi kertoo tiedon sijainnin sen ainoassa ulottuvuudessa.
 
@@ -50,7 +50,9 @@ int kaksiUloitteinenTaulukko[][] = new int[koko_1][koko_2]
 
 <!-- A1 viewing -->
 
-<only-for-ab-group group=1>
+<only-for-ab-group group=2>
+
+Alla oleva visualisaatio käsittelee moniuloitteista tietoa ja moniuloitteisten taulukkojen toimintaa. Katsele visualisaatio läpi, ja vastaa sitten allaolevaan kyselyyn.
 
 ![Moniuloitteisten taulukkojen toiminta ja rakenne](./multiDimArrayA1.jpg)
 
@@ -60,6 +62,8 @@ int kaksiUloitteinenTaulukko[][] = new int[koko_1][koko_2]
 <!-- A1 responding -->
 
 <only-for-ab-group group=3>
+
+Allaoleva powerpoint käsittelee moniuloitteista tietoa ja moniuloitteisten taulukoiden toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 
@@ -107,6 +111,8 @@ int kaksiUloitteinenTaulukko[][] = new int[koko_1][koko_2]
 
 <only-for-ab-group group=5>
 
+Alla oleva visualisaatio käsittelee moniuloitteista tietoa ja moniuloitteisten taulukkojen toimintaa. Katsele visualisaatio läpi, ja vastaa sitten allaolevaan kyselyyn.
+
 ![Moniuloitteisten taulukkojen toiminta ja rakenne](./multiDimArrayA2.jpg)
 
 </only-for-ab-group>
@@ -114,6 +120,8 @@ int kaksiUloitteinenTaulukko[][] = new int[koko_1][koko_2]
 <!-- A2 responding -->
 
 <only-for-ab-group group=6>
+
+Allaoleva powerpoint käsittelee moniuloitteista tietoa ja moniuloitteisten taulukoiden toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 
