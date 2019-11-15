@@ -535,7 +535,7 @@ Alla oleva visualisaatio käsittelee hajautustaulujen toimintaa. Katsele visuali
 <!-- A1  responding -->
 <only-for-ab-group group=3>
 
-Allaoleva powerpoint käsittelee hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
+Allaoleva esitys opettaa hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 
@@ -576,7 +576,7 @@ Alla oleva visualisaatio käsittelee hajautustaulujen toimintaa. Katsele visuali
 <!-- A2   responding -->
 <only-for-ab-group group=6>
 
-Allaoleva powerpoint käsittelee hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
+Allaoleva esitys opettaa hajautustaulujen toimintaa. Katsele ensin esitys läpi, ja vastaa sitten kyselyyn.
 
 <pdf-slideshow>
 
