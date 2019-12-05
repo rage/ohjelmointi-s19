@@ -2,23 +2,23 @@
 path: '/osa-14'
 title: 'Osa 14'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>6.5.2019</deadline>
+  <deadline>19.12.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
-  <deadline>4.1.2020</deadline>
+  <deadline>19.12.2020</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-dl">
-  <deadline>6.5.2019</deadline>
+  <deadline>19.12.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-nodl">
-  <deadline>20.1.2019</deadline>
+  <deadline>19.12.2019</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="kesa-dl">
@@ -33,7 +33,7 @@ hidden: true
   <deadline>Kirjaudu sisään nähdäksesi deadlinen tälle osalle</deadline>
 </only-for-not-logged-in>
 
-Tämän osan jälkeen tunnet menetelmiä simulaatioiden luomiseen ja olet kerrannut kaksiulotteisten taulukoiden käyttöä. Tiedät, että muiden kirjoittamia kirjastoja voi käyttää osana omia ohjemia, ja olet ottanut ensiaskeleet tietokannan käyttöön. Kertaat myös käsitettä yksikkötesti ja opit käsitteen testikattavuus.
+Tämän osan jälkeen tunnet menetelmiä simulaatioiden luomiseen ja olet kerrannut kaksiulotteisten taulukoiden käyttöä. Tiedät, että muiden kirjoittamia kirjastoja voi käyttää osana omia ohjemia, ja olet ottanut ensiaskeleet tietokannan käyttöön.
 
 <please-login></please-login>
 

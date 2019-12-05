@@ -1,10 +1,10 @@
 ---
-path: '/osa-14/4-yhteenveto'
+path: '/osa-14/3-yhteenveto'
 title: 'Yhteenveto'
-hidden: true
+hidden: false
 ---
 
-Materiaalin neljännessätoista osassa eli ohjelmoinnin jatkokurssin viimeisessä osassa tarkasteltiin simulaatioiden luomista kaksiulotteisten taulukoiden avulla. Tämän lisäksi tutustuttiin kolmannen osapuolen kirjastojen käyttöön ja kerrattiin yksikkötestausta.
+Materiaalin neljännessätoista osassa eli ohjelmoinnin jatkokurssin viimeisessä osassa tarkasteltiin simulaatioiden luomista kaksiulotteisten taulukoiden avulla. Tämän lisäksi tutustuttiin kolmannen osapuolen kirjastojen käyttöön.
 
 <text-box variant='hint' name='Mitä seuraavaksi?'>
 
