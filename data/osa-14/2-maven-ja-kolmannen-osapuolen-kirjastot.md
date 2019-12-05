@@ -223,3 +223,9 @@ Java on yksi maailman eniten käytetyistä ohjelmointikielistä ja sitä käytet
 
 
 Mobiilisovellusten kehittämisestä enemmän kiinnostuneiden kannattaa tutustua Androidin sovelluskehittäjille luomaan sivustoon, joka löytyy osoitteessa [https://developer.android.com/guide/](https://developer.android.com/guide/). Käymäsi ohjelmoinnin perusteet ja ohjelmoinnin jatkokurssi antaa näihin hyvän lähtökohdan. Vastaavasti, mikäli yksinkertaisten (mobiili)pelien kehittäminen kiinnostaa, tutustu esimerkiksi [FXGL](https://github.com/AlmasB/FXGL/wiki)-kirjastoon.
+
+<programming-exercise name='Testausta' tmcname='osa14-Osa14_06.Testausta' nocoins="1">
+
+Palauta tämä tehtäväpohja sellaisenaan, ja saat lahjapisteen. Hauskaa joulua!
+
+</programming-exercise>
